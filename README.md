@@ -1,6 +1,4 @@
-# danielnemethphd.github.io
-This is the repository for all project managment, data, images, and other files for Daniel Nemeth's research group. 
+# Daniel Nemeth, Ph.D.
 
-# header 
-Research Interests
-
+# Research Interests
+My research interest is the neuroimmune cellular and molecular interactions involved in both physiological and pathological states of the CNS and how these interactions lead to behavioral changes. Specifically, I am highly motivated to pursue how master pro-inflammatory cytokine, Interleukin-1 (IL-1), signals through its cognate receptor, Interleukin-1 Receptor Type 1 (IL-1R1), and how these cell-type specific signaling pathways control important CNS processes. I aim to tackle these uncharted territories in neuroimmunology though conceptual innovation, utilization of new techniques, and collaboration with a variety of other researchers. I feel I keep true to these tenants as I have created new conceptual advancements of how IL-1 can manipulate neural circuits, created and implemented novel and technologically-advanced mouse models, and initiated productive collaborations throughout Ohio State University, Florida Atlantic University, and abroad. My ongoing research projects are (1) identifying the function of neuronal IL-1R1 related to PTSD-like fear memory, (2) visualization of and genetic access to IL-1 expressing cells using a novel IL1beta-TRAP mouse model, (3) revealing the choroid plexus IL-1 signaling as a major neuroimmune communicator, and (4) identifying how astrocyte IL-1R1 modifies hippocampal neurocircuitry.
